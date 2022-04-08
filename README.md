@@ -4,8 +4,6 @@ Desenvolvedora Front-end
 
 <div align="center">
   <a href="https://github.com/luci253bah">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luci253bah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci253bah&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luci253bah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci253bah&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
