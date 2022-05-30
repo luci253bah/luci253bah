@@ -1,6 +1,6 @@
 Oii! Eu sou a Luciana Moreira 
 Desenvolvedora Front-end
-🍔 Estudando Typescript
+🍒 Estudando JavaScript e Node
 
 <div align="center">
   <a href="https://github.com/luci253bah">
