@@ -1,4 +1,4 @@
-** 👋 Olá! Eu sou a Luciana Moreira **
+**Olá! Eu sou a Luciana Moreira**
 **Desenvolvedora Front-End Júnior**
 
 🍒 Apaixonada por tecnologia, design e experiências digitais que fazem a diferença.
@@ -27,10 +27,10 @@ Atualmente estou me aprofundando em:
 - TypeScript para projetos mais escaláveis  
 - Boas práticas de versionamento e organização de código
 
-  ## 🌐 Contato e redes sociais
+  ## 🌐 Contato 
 
 - 📧 **E-mail:** moreira.luciana0@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/luciana-moreira2  
+
 
    
 
