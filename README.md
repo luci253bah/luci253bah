@@ -1,5 +1,5 @@
 **Olá! Eu sou a Luciana Moreira**
-**Desenvolvedora Front-End Júnior**
+## Desenvolvedora Front-End Júnior
 
 🍒 Apaixonada por tecnologia, design e experiências digitais que fazem a diferença.
 
