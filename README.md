@@ -26,7 +26,7 @@ Atualmente estou me aprofundando em:
 - Node.js no back-end   
 - Boas práticas de versionamento e organização de código
 
-  ## 🌐 Contato 
+  ##  Contato 
 
 - 📧 **E-mail:** moreira.luciana0@gmail.com  
 
