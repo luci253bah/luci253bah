@@ -31,8 +31,7 @@ Atualmente estou me aprofundando em:
 
 - 📧 **E-mail:** moreira.luciana0@gmail.com  
 - 💼 **LinkedIn:** linkedin.com/in/luciana-moreira2  
-- 📸 **Instagram:** @ciana_vip  
-- 💬 **Discord:** luciana#5309  
+
    
 
 
