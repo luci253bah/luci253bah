@@ -6,7 +6,7 @@
 
 ##  Sobre mim
 
-Sou desenvolvedora Front-End Júnior, atualmente focada nos estudos de **Html**, **Css**, **JavaScript**, **Node.js** e **TypeScript**.  
+Sou desenvolvedora Front-End Júnior, atualmente focada nos estudos de **Html**, **Css**, **JavaScript**, **Node.js**.  
 Tenho grande interesse por interfaces modernas, responsivas e acessíveis.  
 Meu objetivo é evoluir constantemente como profissional e contribuir com soluções criativas.
 
@@ -23,8 +23,7 @@ Estou sempre buscando aprender novas ferramentas e práticas do mercado.
 Atualmente estou me aprofundando em:
 
 - JavaScript moderno  
-- Node.js no back-end  
-- TypeScript para projetos mais escaláveis  
+- Node.js no back-end   
 - Boas práticas de versionamento e organização de código
 
   ## 🌐 Contato 
