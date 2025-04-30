@@ -13,7 +13,7 @@ Meu objetivo é evoluir constantemente como profissional e contribuir com soluç
 
 ##  Tecnologias que utilizo
 
-- Html5 - Css - JavaScript - TypScript - Bootstrap - Git e GitHub - Figma - Canva
+- Html5 - Css - JavaScript - Bootstrap - Git e GitHub - Figma - Canva
 
 Estou sempre buscando aprender novas ferramentas e práticas do mercado.
 
